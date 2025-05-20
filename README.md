@@ -1,4 +1,4 @@
-![shelby norris (6912 x 3200 px)](https://github.com/user-attachments/assets/f8a6525b-ab5e-44f8-b34f-1cb81fca7a59)
+![shelby norris (6912 x 3200 px) (1)](https://github.com/user-attachments/assets/44f8be47-5401-49ea-a700-5e9c569f6d41)
 
 # 👋 Hey There!
 
