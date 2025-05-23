@@ -10,8 +10,6 @@ I'm Shelby, an aspiring web developer. Most of my professional life has been spe
 - CSS
 - JavaScript
 - Bootstrap
-- Canva
-- Figma
 
 ## Projects
 
