@@ -2,7 +2,7 @@
 
 # 👋 Hey There!
 
-I'm Shelby, an aspiring web developer. Most of my professional life has been spent in customer service and marketing, particularly with commercial real estate. I have a passion for helping small businesses grow, and I love learning new things!
+I'm Shelby, an aspiring web developer. Most of my professional life has been spent in customer service and marketing, so I'm a total newbie with this kind of thing. I'm always open to constructive criticism, advice, collaborations, and new learning opportunities! 🌱
 
 ## Languages and Tools
 
